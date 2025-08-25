@@ -7,5 +7,5 @@ this app uses is own file format to save the pyxxell files
 the source code
  for that file format
  is in the pyxxell file format source code folder 
- thsi whole calculator app is made by a 12 year old so please if there are bugs dont hate
+ this whole calculator app is made by a 12 year old so please if there are bugs dont hate.
  
